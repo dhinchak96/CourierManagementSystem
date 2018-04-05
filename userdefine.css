@@ -1,0 +1,30 @@
+
+body{
+	border:2px solid green;
+	width:100%;
+	heigth:100%;
+}
+.header{
+	border:3px solid black;
+	border-style:groove;
+	font-size:20px;
+	margin-bottom:20px;
+	margin-top:5px;
+	padding-bottom:10px;
+	background-color:#000033;
+}
+h2,h3{
+	color:green;
+}
+.navig{
+	float :right;
+}
+#footer{
+	background-color:black;
+	border:2px solid black;
+	margin-top:20px;
+	border-style:groove;
+}
+li{
+	color:green;
+}

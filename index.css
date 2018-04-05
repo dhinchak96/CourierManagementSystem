@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+#ind1{
+	border:5px solid black;
+	margin-right:50px; 
+	margin-left:10px; 
+	background-color:white;
+	border-style:ridge;
+}
+#ind{
+	border:5px solid black;
+	 height:354.4px; 
+	 background-color:white; 
+	border-style:ridge;
+}
+#ind3{
+	border:3px solid black;
+	border-style:groove;
+	margin-left:20px; 
+	margin-top:145px;
+	background-color:white;
+}

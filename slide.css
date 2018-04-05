@@ -1,0 +1,44 @@
+#container{
+width:800px;
+overflow:hidden;
+}
+#sliderbox{
+position:relative;
+width:3200px;
+animation-name:slideranimation;
+animation-duration:10s;
+animation-iteration-count:infinite;
+}
+#sliderbox img{
+float:left;
+}
+@keyframes slideranimation{
+0%
+{
+	left:0px;
+}
+20%
+{
+	left:0px;
+}
+25%
+{
+	left: -800px;
+}
+45%
+{
+left: -800px;
+}
+50%
+{
+	left: -1600px;
+}
+70%
+{
+	left: -1600 px;
+}
+75%
+{
+left:-2400 px;
+}
+}
